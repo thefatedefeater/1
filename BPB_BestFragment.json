@@ -149,7 +149,6 @@
                     "length": "10-20",
                     "interval": "1-1"
 
-ZahedanTech, [8/16/2024 6:07 PM]
 }
             },
             "proxySettings": {
@@ -307,7 +306,6 @@ ZahedanTech, [8/16/2024 6:07 PM]
                 }
             },
 
-ZahedanTech, [8/16/2024 6:07 PM]
 "proxySettings": {
                 "tag": "proxy"
             }
@@ -466,7 +464,6 @@ ZahedanTech, [8/16/2024 6:07 PM]
                 ],
                 "strategy": {
 
-ZahedanTech, [8/16/2024 6:07 PM]
 "type": "leastPing"
                 }
             }
